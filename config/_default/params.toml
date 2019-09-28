@@ -169,6 +169,8 @@ link_authors = true
 plugins_css = []
 plugins_js  = []
 
+disable_comments = true
+
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
