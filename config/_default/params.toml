@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {country = "United Kingdom", country_code = "UK"}
+address = {city = "London", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.5273", longitude = "-0.6606"}
+coordinates = {latitude = "51.570756", longitude = "-0.102128"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -245,8 +245,8 @@ disable_comments = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyD21Pja9OIRy7TkstrZThDDiTEhqcSZ1VQ"
   zoom = 15
 
 ############################
