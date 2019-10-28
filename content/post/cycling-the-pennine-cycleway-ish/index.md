@@ -17,25 +17,25 @@ image:
 
 gallery_item:
 - album: hartington_station
-  image: hartington_station1.JPG
+  image: hartington_station1 - resize.JPG
   caption: Hartington Station
 - album: hartington_station
-  image: hartington_station2.JPG
+  image: hartington_station2 - resize.JPG
   caption: Points levers (NOT TO BE TOUCHED)
 - album: hartington_station
-  image: hartington_station3.JPG
+  image: hartington_station3 - resize.JPG
   caption: I didn't do it sir, I promise
 - album: morale_boost
-  image: hills_to_be_admired.JPG
+  image: hills_to_be_admired - resize.JPG
   caption: Hills to be admired
 - album: morale_boost
-  image: torside_reservoir.JPG
+  image: torside_reservoir - resize.JPG
   caption: These views kept me going
 - album: fixed_bike
-  image: new_cassette.jpg
+  image: new_cassette - resize.jpg
   caption: New cassette
 - album: fixed_bike
-  image: new_chainring.jpg
+  image: new_chainring - resize.jpg
   caption: New chainring
 ---
 
@@ -50,7 +50,7 @@ I rather foolishly decided that instead of packing the night before that it woul
 
 Leaving Derby station we make our way out of Derby and onto the Pennine cycleway, having gotten lost about three times before even leaving the city centre this didn't bode well for the rest of our journey. However, we make our way out at last and get on our route, with some lovely English countryside to greet us: rolling hills, green green grass and some fine tarmac.
 
-{{< figure src="lunch_with_a_view.JPG" caption="Lunch with a view" lightbox="true" >}}
+{{< figure src="lunch_with_a_view - resize.JPG" caption="Lunch with a view" lightbox="true" >}}
 
 ### Hartington Station
 
@@ -100,9 +100,9 @@ We went on with our ride and were "enjoying" the hill climbs. Jaime was often in
 
 Pretty self explanatory really.
 
-{{< figure src="scammonden_water.JPG" caption="Scammonden Water" lightbox="true" >}}
+{{< figure src="scammonden_water - resize.JPG" caption="Scammonden Water" lightbox="true" >}}
 
-{{< figure src="tunnel.JPG" caption="Tunnel" lightbox="true" >}}
+{{< figure src="tunnel - resize.JPG" caption="Tunnel" lightbox="true" >}}
 
 ### Disaster strikes twice
 
@@ -118,11 +118,11 @@ Now the part we had been dreading since the start of this tour, the largest asce
 
 A lot of our ride from this point onwards went broadly as planned. We were slow at the points we expected and fast when wanted to be. It eventually led us to the five locks, a true marker of British Engineering and a sample of the serene canals on offer throughout the country.
 
-{{< figure src="five_locks.JPG" caption="Five Locks" lightbox="true" >}}
+{{< figure src="five_locks - resize.JPG" caption="Five Locks" lightbox="true" >}}
 
 At the top of the locks was a cafe, but it was shut... Fortunately, there was a boat cafe open just down from it with some tea and cake to spur us on for the last stretch.
 
-{{< figure src="tea_and_cake.JPG" caption="Lemon drizzle with a proper brew" lightbox="true" >}}
+{{< figure src="tea_and_cake - resize.JPG" caption="Lemon drizzle with a proper brew" lightbox="true" >}}
 
 ### It's all downhill from here
 
