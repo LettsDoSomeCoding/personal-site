@@ -11,23 +11,97 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Aucklands Burning... 🎵"
+  focal_point: "Center"
+  placement: 3
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+gallery_item:
+- album: walking_around_auckland
+  image: skytower.JPG
+  caption: Auckland Skytower
+- album: walking_around_auckland
+  image: wynyard_quarter.JPG
+  caption: Wynyard Quarter
+- album: walking_around_auckland
+  image: britomart.JPG
+  caption: Britomart District
+- album: walking_around_auckland
+  image: truth.JPG
+  caption: Truth!
+- album: walking_around_auckland
+  image: winding_trees.JPG
+  caption: Winding trees in the small nature reserve
+- album: walking_around_auckland
+  image: uni_clocktower.JPG
+  caption: Auckland University Clocktower
+- album: walking_around_auckland
+  image: albert_park.JPG
+  caption: Albert Park
+- album: walking_around_auckland
+  image: party_in_the_back.JPG
+  caption: The party in the back for the Art Gallery
+- album: walking_around_auckland
+  image: aotea_square.JPG
+  caption: Aotea Square
+- album: walking_around_auckland
+  image: myers_park.JPG
+  caption: Myers Park
+- album: walking_around_auckland
+  image: michelangelo.JPG
+  caption: Michelangelo
+- album: walking_around_auckland
+  image: graffiti.JPG
+  caption: Nerdy graffiti
+- album: walking_around_auckland
+  image: arty_mall.JPG
+  caption: An arty shopping centre
+- album: auckland_museum
+  image: P1010697.JPG
+  caption: a
+- album: auckland_museum
+  image: P1010698.JPG
+  caption: a
+- album: auckland_museum
+  image: P1010698.JPG
+  caption: a
+- album: auckland_museum
+  image: P1010700.JPG
+  caption: a
+- album: auckland_museum
+  image: P1010701.JPG
+  caption: a
+- album: auckland_museum
+  image: P1010702.JPG
+  caption: a
+- album: wintergardens
+  image: P1010703.JPG
+  caption: a
+- album: wintergardens
+  image: P1010704.JPG
+  caption: a
+- album: wintergardens
+  image: P1010705.JPG
+  caption: a
+- album: wintergardens
+  image: P1010706.JPG
+  caption: a
+- album: wintergardens
+  image: P1010707.JPG
+  caption: a
+- album: wintergardens
+  image: P1010708.JPG
+  caption: a
+- album: wintergardens
+  image: P1010709.JPG
+  caption: a
 ---
 
-This post will be part of a series detailing my activities, thoughts and feelings as I make a five-week expedition across the beautiful lands of New Zealand (NZ).
+This post is part of a series detailing my activities, thoughts and feelings as I make a five-week expedition across the beautiful lands of New Zealand (NZ).
 
 `NOTE: there currently aren't any photos as the hostel I am staying in doesn't have the best upload speeds`
 
-## The early bird gets to check- in
+## The early bird gets to check-in
 
 Upon packing my bags with the most elaborate set of items that will allow me to carry them both by air and by bike I get an "early" (11pm) night as I have to get up for 6am on the first day of my travels. I wasn't expecting to have to be up at such an "early" (this lazy person often gets up past 8am on weekdays) but it was something I had to bear as online check-in apparently isn't a possibility when you booked with Air NZ and your departing flight is with Singapore Airlines. Lesson learned for the future I guess.
 
@@ -49,6 +123,8 @@ Despite my lack of sleep, I wake up at 7:30am. At least this allows me to meet m
 
 As I'm up I've realised the "late Sunday" NFL games will be on soon, including my beloved Seahawks. I get an NZ travel sim card for my phone, and then find the nearest sports bar that is open at 9:30am. The Right Track sports bar/cafe does the trick. They're only showing the Saints @ Bears game but it's better than nothing and gives me a chance to have breakfast and check out the details for that beer festival. Whilst getting near to the end of my free hour of WiFi someone else walks in and asks if they're showing the Seahawks game, I explain that they only have one game available in NZ but that this place does have WiFi if you buy something. He then proceeds to buy a drink get out his phone and finds a stream of the game and I join him in watching on the 5.5" display. This new stranger goes by the name of Joe and is from Idaho, USA. The Seattle Seahawks are the closest team to Idaho apparently which explains his fandom. Whilst watching the match I learn all sorts of things about Joe; he was a product manager in software as it allowed him to pay off his student loans quickly, but his true passion was becoming a film director/producer. The reason why Joe was in NZ escapes me but it was only a stop-gap until he moves to LA to pursue his dreams, maybe we could all learn something from Joe. The game finishes very disappointingly and we part ways as Joe looks for a flat to live in and I try to walk off my inane tiredness.
 
+{{< gallery album="walking_around_auckland" >}}
+
 Walking down Queen street, the main boulevard in Auckland CBD, I hack a right at the end and walk along the harbour front eventually making it to Wynyard Quarter an area of the city that was disused industrial land that is being turned into a sort of tech hub with bars and restaurants to match. The buildings are striking and it is a nice area, however, I'm still too zonked to be able to appreciate any of it. I eventually come back the way I came, appreciating all the rugby world cup signs around until I come up to Britomart station. A bunch of designer branded shops and high-end office lay just past it and within the centre of these was a display for nominations of the most inspiring women of New Zealand, they all seemed very impressive to me. I carry on up towards the Auckland University campus and happen upon a tiny nature reserve. Trees are mangled together, stretching over the path, winding and twisting, giving little option but to duck beneath them. I walk around the campus, have a late lunch from the student's convenience store and appreciate the slow walk up and through Albert Park. Walking past the business in the front (Edwardian style), party in the back (modern architecture) Auckland art gallery, I make my way by the civic theatre and centre into Myers park. Another little sanctuary leading up a hill with a replica Michaelangelo statue. Going through a rather quaint mall I decide I'm done for the day and that I need to have a nap.
 
 I get back to the hostel, thankfully no-one is in the room and I sleep for an hour or so. I only wake up briefly to talk to my roommates about our various days and then I crash again hoping sleeps warm embrace will bring me back to feeling normal.
@@ -59,9 +135,15 @@ I wake up early again but I got a full 8 hours at least. I take this opportunity
 
 Once I am up I get to a local corner shop and have some basic breakfast (apricot and chocolate oat bars, and orange and mango juice) as my stomach is still in knots from lack of sleep. I proceed with my plans nonetheless and walk towards Domain, a lovely park built on top of a currently inactive volcano. I lie down once I get to the top seriously wondering about whether I'm capable to do the rest of my plans for the day. I persevere onwards, partly because it started raining, and make it to the Auckland War Memorial Museum.
 
+{{< gallery album="auckland_museum" >}}
+
 The museum is fantastic! A wide selection of different exhibitions covering the Polynesian culture, the discovery of Aotearoa/New Zealand by James Cook, volcanoes (including a physical simulation of being in a minor earthquake situation), and one of the more interesting topics of bags around the world and throughout the ages. All of the information was well put together and often in an engaging if not interactive manner. I bought the ticket to see the Maori (the indigenous people of Aotearoa) cultural experience and I was not disappointed. The participants (actors? dancers?) were very well rehearsed and gave both an informative and entertaining show. It felt truly like I was in New Zealand at last, even if my body still didn't know how it felt.
 
+{{< gallery album="wintergardens">}}
+
 I leave the museum after some lunch and walk towards Mount Eden. As luck would have it I take a slight detour and find the Wintergardens. In the first of the greenhouses I entered, I was greeted by a luscious bouquet of smells from all sorts of stunning orchids, following through to the more tropical greenhouse and then into Fernz Fernery, where I appreciated the efforts they went to in order to maintain brand recognition. I walk for quite a while past, cricket pavilions, schools and churches to finally meet the base of Mount Eden, I begin my ascent.
+
+{{< gallery album="mount_eden">}}
 
 I make it up most of the way and then turn around to look at the first lookout point when I see smoke billowing across the skyline of Auckland. It turns out that the day I choose to explore a bit further out is the day that the convention centre catches on fire. A lucky break. At the top of the mount, I get to see the scale of the fire and decide that it's probably under control. I take another rest in the grass of Mount Eden as my body is writhing in discomfort. Despite the fact that I have further plans for the day, I decided that I am done. I make my way to the closest convenience store, leave with my off-brand pot noodle in hand, and take a bus back to my hostel.
 
