@@ -11,8 +11,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "A Sunset for Thinking"
+  focal_point: "Centre"
+  placement: 3
   preview_only: false
 
 # Projects (optional).
@@ -80,7 +81,5 @@ I get back to the coach and I repeat this to Rachel and she said that most Maori
 {{<gallery album="bay-of-islands">}}
 
 We arrive back in Paihia and I get onto the boat that will cruise around this pristine blue bay. I get a good seat on the top floor and enjoy the ride. Scenic views a plenty, this tour went through the bay of islands and up to but not through the "hole in the rock". Dolphins sighting were supposed to be common on this tour but it was not to be and even more disappointingly the lunch I had booked wasn't on ship. Luckily I had planned for this and chowed down on a big bag of crisps but overall it put a dampener on the tour. At least it didn't cost that much.
-
-{{<figure src="a-sunset-for-thinking.JPG" caption="A Sunset for Thinking">}}
 
 We get on the coach home and there is no commentary. I've had my fill learning about the beating heart of this nation for one day so I listen to some podcasts about Fantasy Football and the NFL. I get chance to reflect on what I've done over the last two days and things are really looking up. I didn't know what to expect from these travels but I realise I really am learning more about myself and about others as well. I arrive back with enough time to work on my first blog post and with that I will end this one.
