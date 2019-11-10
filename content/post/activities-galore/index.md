@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Activities Galore"
-subtitle: "The night is always darkest just before the dawn."
+subtitle: "But in the end it’s only a passing thing, this shadow; even darkness must pass."
 tags: ["trips", "New Zealand"]
 date: 2019-10-26T15:07:11+13:00
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
