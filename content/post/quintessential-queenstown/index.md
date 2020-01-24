@@ -6,7 +6,6 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: []
 date: 2019-11-21T11:43:44+13:00
 lastmod: 2019-11-21T11:43:44+13:00
 featured: false
@@ -124,6 +123,39 @@ projects: []
 - Enter Shikari on the way down
 - Singing Airfields when the sun comes out
 - trying out the luge, didn't need 6 times
-- 
 
 ## Day 35 - Home time (NOT)
+
+- Really early skydive booking is cancelled again
+- Book for 7:30am pickup in Wanaka
+- Walk around the lake, again
+- Finally get to skydive
+- professional centre
+- Kai is my beautiful stranger
+- wind goes up briefly
+- video speaks 24XtimeX1000 words
+- calling my parents
+- chilling in the hostel, leaving my food for merlin and other german
+- bus to airport
+- everything smooth
+- pub quiz on the plane
+- Auckland airport
+- my check isn't working
+- I don't have a visa waiver
+- refer to slack message for the rest of this story
+
+## Day 36 - The day that shouldn't have happened
+
+- last of my NZ dollars on a McDonalds meal
+- check in was easy
+- flight to Singapore included LOTR trilogy again
+- Getting a visa into singapore was easy
+- Stay inside the gem and get salted egg fried chicken and mango bubble tea
+- pokemon center
+- light show
+- disappointing slide ride
+- going home at last
+- trying to get sleep but failing, I land in at 6am stop off at home for a shower and getting changed
+- go straight to work and that is the end of my story
+
+
