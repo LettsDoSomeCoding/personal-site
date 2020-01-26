@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
@@ -16,20 +16,55 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fab"
+  icon_pack = "icomoon"
   name = "Python"
-  description = "90%"
+  description = "60%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "csharp"
+  icon_pack = "icomoon"
+  name = "C#"
+  description = "70%"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "icomoon"
+  name = "Linux"
+  description = "60%"  
   
 [[feature]]
   icon = "terraform"
   icon_pack = "icomoon"
   name = "Terraform"
   description = "40%"
+  
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "icomoon"
+  name = "GitLab CI and Admin"
+  description = "90%"
+    
+[[feature]]
+  icon = "git"
+  icon_pack = "icomoon"
+  name = "Git"
+  description = "70%"
 
+[[feature]]
+  icon = "prometheus"
+  icon_pack = "icomoon"
+  name = "Grafana and Prometheus Monitoring and Alerting"
+  description = "75%"
+  
+[[feature]]
+  icon = "elastic"
+  icon_pack = "icomoon"
+  name = "ElasticSearch"
+  description = "30%"
+  
+[[feature]]
+  icon = "puppet"
+  icon_pack = "icomoon"
+  name = "Puppet"
+  description = "80%"
 +++

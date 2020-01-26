@@ -1,0 +1,437 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?mwe8bm');
+  src:  url('../fonts/icomoon.eot?mwe8bm#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?mwe8bm') format('truetype'),
+    url('../fonts/icomoon.woff?mwe8bm') format('woff'),
+    url('../fonts/icomoon.svg?mwe8bm#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-gcp_grey:before {
+  content: "\e917";
+  color: #f7f7f7;
+}
+.icomoon-puppet:before {
+  content: "\e920";
+  color: #ffae1a;
+}
+.icomoon-artifactory:before {
+  content: "\e924";
+  color: #40be46;
+}
+.icomoon-amazonaws:before {
+  content: "\e900";
+}
+.icomoon-amd:before {
+  content: "\e94e";
+  color: #ed1c24;
+}
+.icomoon-ansible:before {
+  content: "\e919";
+  color: #e00;
+}
+.icomoon-atlassian:before {
+  content: "\e918";
+  color: #0052cc;
+}
+.icomoon-bootstrap:before {
+  content: "\e91a";
+  color: #563d7c;
+}
+.icomoon-centos:before {
+  content: "\e91b";
+  color: #262577;
+}
+.icomoon-confluence:before {
+  content: "\e91d";
+}
+.icomoon-coursera:before {
+  content: "\e901";
+  color: #2a73cc;
+}
+.icomoon-csharp:before {
+  content: "\e902";
+  color: #239120;
+}
+.icomoon-css3:before {
+  content: "\e91e";
+  color: #1572b6;
+}
+.icomoon-debian:before {
+  content: "\e921";
+  color: #a81d33;
+}
+.icomoon-dependabot:before {
+  content: "\e91f";
+  color: #025e8c;
+}
+.icomoon-docker:before {
+  content: "\e923";
+  color: #1488c6;
+}
+.icomoon-dot-net:before {
+  content: "\e903";
+  color: #5c2d91;
+}
+.icomoon-elastic:before {
+  content: "\e904";
+  color: #005571;
+}
+.icomoon-elasticcloud:before {
+  content: "\e925";
+  color: #005571;
+}
+.icomoon-elasticsearch:before {
+  content: "\e926";
+  color: #005571;
+}
+.icomoon-elasticstack:before {
+  content: "\e927";
+  color: #005571;
+}
+.icomoon-facebook:before {
+  content: "\e922";
+  color: #1877f2;
+}
+.icomoon-fedora:before {
+  content: "\e91c";
+  color: #294172;
+}
+.icomoon-flask:before {
+  content: "\e94f";
+}
+.icomoon-git:before {
+  content: "\e905";
+  color: #f05032;
+}
+.icomoon-github:before {
+  content: "\e906";
+}
+.icomoon-gitlab:before {
+  content: "\e907";
+  color: #fca121;
+}
+.icomoon-glassdoor:before {
+  content: "\e950";
+  color: #0caa41;
+}
+.icomoon-gmail:before {
+  content: "\e951";
+  color: #d14836;
+}
+.icomoon-go:before {
+  content: "\e954";
+  color: #00add8;
+}
+.icomoon-google:before {
+  content: "\e916";
+  color: #4285f4;
+}
+.icomoon-googlecloud:before {
+  content: "\e928";
+  color: #4285f4;
+}
+.icomoon-gov-dot-uk:before {
+  content: "\e945";
+  color: #005ea5;
+}
+.icomoon-graphql:before {
+  content: "\e952";
+  color: #e10098;
+}
+.icomoon-helm:before {
+  content: "\e908";
+  color: #277a9f;
+}
+.icomoon-html5:before {
+  content: "\e929";
+  color: #e34f26;
+}
+.icomoon-indeed:before {
+  content: "\e947";
+  color: #2164f3;
+}
+.icomoon-influxdb:before {
+  content: "\e92a";
+  color: #22adf6;
+}
+.icomoon-java:before {
+  content: "\e92b";
+  color: #007396;
+}
+.icomoon-javascript:before {
+  content: "\e92c";
+  color: #f7df1e;
+}
+.icomoon-jira:before {
+  content: "\e92d";
+}
+.icomoon-jquery:before {
+  content: "\e92e";
+  color: #0769ad;
+}
+.icomoon-kubernetes:before {
+  content: "\e909";
+  color: #326ce5;
+}
+.icomoon-letsencrypt:before {
+  content: "\e92f";
+  color: #003a70;
+}
+.icomoon-linkedin:before {
+  content: "\e90a";
+  color: #0077b5;
+}
+.icomoon-linux:before {
+  content: "\e90b";
+  color: #fcc624;
+}
+.icomoon-meetup:before {
+  content: "\e948";
+  color: #ed1c40;
+}
+.icomoon-messenger:before {
+  content: "\e949";
+  color: #00b2ff;
+}
+.icomoon-microsoft:before {
+  content: "\e930";
+  color: #666;
+}
+.icomoon-microsoftazure:before {
+  content: "\e931";
+  color: #0089d6;
+}
+.icomoon-netlify:before {
+  content: "\e90c";
+  color: #00c7b7;
+}
+.icomoon-nintendoswitch:before {
+  content: "\e932";
+  color: #e60012;
+}
+.icomoon-nuget:before {
+  content: "\e933";
+  color: #004880;
+}
+.icomoon-nvidia:before {
+  content: "\e935";
+  color: #76b900;
+}
+.icomoon-oculus:before {
+  content: "\e94a";
+}
+.icomoon-openssl:before {
+  content: "\e90d";
+  color: #721412;
+}
+.icomoon-plex:before {
+  content: "\e936";
+  color: #e5a00d;
+}
+.icomoon-postgresql:before {
+  content: "\e90e";
+  color: #336791;
+}
+.icomoon-powershell:before {
+  content: "\e90f";
+  color: #5391fe;
+}
+.icomoon-prometheus:before {
+  content: "\e910";
+  color: #e6522c;
+}
+.icomoon-python:before {
+  content: "\e911";
+  color: #3776ab;
+}
+.icomoon-reddit:before {
+  content: "\e937";
+  color: #ff4500;
+}
+.icomoon-redhat:before {
+  content: "\e912";
+  color: #e00;
+}
+.icomoon-rss:before {
+  content: "\e938";
+  color: #ffa500;
+}
+.icomoon-sass:before {
+  content: "\e934";
+  color: #c69;
+}
+.icomoon-skype:before {
+  content: "\e93b";
+  color: #00aff0;
+}
+.icomoon-slack:before {
+  content: "\e913";
+  color: #4a154b;
+}
+.icomoon-songkick:before {
+  content: "\e94b";
+  color: #f80046;
+}
+.icomoon-spotify:before {
+  content: "\e939";
+  color: #1ed760;
+}
+.icomoon-stackoverflow:before {
+  content: "\e93a";
+  color: #fe7a16;
+}
+.icomoon-steam:before {
+  content: "\e93c";
+}
+.icomoon-terraform:before {
+  content: "\e914";
+  color: #623ce4;
+}
+.icomoon-toggl:before {
+  content: "\e940";
+  color: #e01b22;
+}
+.icomoon-trello:before {
+  content: "\e941";
+  color: #0079bf;
+}
+.icomoon-twitter1:before {
+  content: "\e94c";
+  color: #1da1f2;
+}
+.icomoon-typescript:before {
+  content: "\e93f";
+  color: #007acc;
+}
+.icomoon-ubuntu:before {
+  content: "\e94d";
+  color: #e95420;
+}
+.icomoon-vagrant:before {
+  content: "\e915";
+  color: #1563ff;
+}
+.icomoon-vim:before {
+  content: "\e93d";
+  color: #019733;
+}
+.icomoon-visualstudiocode:before {
+  content: "\e93e";
+  color: #007acc;
+}
+.icomoon-whatsapp:before {
+  content: "\e943";
+  color: #25d366;
+}
+.icomoon-windows:before {
+  content: "\e942";
+  color: #0078d6;
+}
+.icomoon-xbox:before {
+  content: "\e944";
+  color: #107c10;
+}
+.icomoon-youtube:before {
+  content: "\e946";
+  color: #f00;
+}
+.icomoon-embed:before {
+  content: "\ea7f";
+}
+.icomoon-embed2:before {
+  content: "\ea80";
+}
+.icomoon-terminal:before {
+  content: "\ea81";
+}
+.icomoon-google1:before {
+  content: "\ea88";
+}
+.icomoon-facebook1:before {
+  content: "\ea90";
+}
+.icomoon-facebook2:before {
+  content: "\ea91";
+}
+.icomoon-instagram:before {
+  content: "\ea92";
+}
+.icomoon-whatsapp1:before {
+  content: "\ea93";
+}
+.icomoon-spotify1:before {
+  content: "\ea94";
+}
+.icomoon-twitter:before {
+  content: "\ea96";
+}
+.icomoon-rss2:before {
+  content: "\ea9c";
+}
+.icomoon-youtube1:before {
+  content: "\ea9d";
+}
+.icomoon-steam1:before {
+  content: "\eaac";
+}
+.icomoon-steam2:before {
+  content: "\eaad";
+}
+.icomoon-github1:before {
+  content: "\eab0";
+}
+.icomoon-trello1:before {
+  content: "\eab3";
+}
+.icomoon-tux:before {
+  content: "\eabd";
+}
+.icomoon-windows8:before {
+  content: "\eac2";
+}
+.icomoon-skype1:before {
+  content: "\eac5";
+}
+.icomoon-reddit1:before {
+  content: "\eac6";
+}
+.icomoon-linkedin1:before {
+  content: "\eac9";
+}
+.icomoon-linkedin2:before {
+  content: "\eaca";
+}
+.icomoon-stackoverflow1:before {
+  content: "\ead0";
+}
+.icomoon-html-five:before {
+  content: "\eae4";
+}
+.icomoon-html-five2:before {
+  content: "\eae5";
+}
+.icomoon-css31:before {
+  content: "\eae6";
+}
+.icomoon-git1:before {
+  content: "\eae7";
+}
