@@ -99,8 +99,6 @@ gallery_item:
 
 This post is part of a series detailing my activities, thoughts and feelings as I make a five-week expedition across the beautiful lands of New Zealand (NZ).
 
-`NOTE: there currently aren't any photos as the hostel I am staying in doesn't have the best upload speeds`
-
 ## The early bird gets to check-in
 
 Upon packing my bags with the most elaborate set of items that will allow me to carry them both by air and by bike I get an "early" (11pm) night as I have to get up for 6am on the first day of my travels. I wasn't expecting to have to be up at such an "early" (this lazy person often gets up past 8am on weekdays) but it was something I had to bear as online check-in apparently isn't a possibility when you booked with Air NZ and your departing flight is with Singapore Airlines. Lesson learned for the future I guess.
