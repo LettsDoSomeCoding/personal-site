@@ -18,7 +18,8 @@
 	"customizations": {
 		"vscode": {
 		  "settings": {},
-		  "extensions": ["gitlab.gitlab-workflow",
+		  "extensions": [
+			"gitlab.gitlab-workflow",
 		  	"eamodio.gitlens",
 			"davidanson.vscode-markdownlint",
 			"ms-python.vscode-pylance",
