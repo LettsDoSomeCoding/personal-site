@@ -26,7 +26,7 @@ projects: []
 
 Veering away from the type of content that I've been writing so far I thought I would cover a technical tutorial on how to use custom icons in the skills section of the Academic theme in Hugo. But, don't worry I will finally get back to the promised New Zealand content in one way or another soon!
 
-{{% toc %}}
+[//]: # (% toc %)
 
 ## What was I trying to solve?
 
