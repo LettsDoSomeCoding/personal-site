@@ -18,7 +18,7 @@ organizations:
   url: "https://azure.microsoft.com/en-gb/solutions/telecommunications"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A platform engineer who is interested in all things DevOps
+bio: A DevOps Engineer who want to make Developers lives easier
 
 interests:
   - Automation
