@@ -79,19 +79,17 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: giscus
+    provider: 'giscus'
     giscus:
-      repo: 'https://github.com/LettsDoSomeCoding/personal-site-giscus'
-      repo_id: 'personal-site-giscus'
-      category: ''
-      category_id: ''
+      repo: 'LettsDoSomeCoding/personal-site-giscus'
+      repo_id: 'R_kgDOL349ZQ'
+      category: 'Q&A'
+      category_id: 'DIC_kwDOL349Zc4CfLZJ'
+      theme: dark
+      language_code: en
+      mapping: pathname
   search:
     provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: 'google'
     api_key: 'AIzaSyD21Pja9OIRy7TkstrZThDDiTEhqcSZ1VQ'

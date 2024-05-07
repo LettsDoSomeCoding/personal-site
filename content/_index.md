@@ -2,6 +2,14 @@
 title: Homepage
 type: landing
 
+cascade:
+- _target:
+    kind: page
+    lang: en
+    path: /post/**
+  params:
+    commentable: true
+
 sections:
   - block: about.biography
     id: about
