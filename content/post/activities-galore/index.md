@@ -48,7 +48,7 @@ Leaving the van we arrive at a small stream and are told that are going to jump 
 
 Clambering through the entrance, it's slippy, cold and dark, ducking under stalactites and gripping onto rocks we make it through to a section with a higher ceiling. We're told to sit down on either side and turn our headlights off. My eyes adjust and twinkling above in a blue/green hue are thousands of little glowworms. I'm then informed that they aren't actually worms, they are maggots, but glow-maggots doesn't sound quite as appealing to the unaware tourist 😉
 
-[//]: # (gallery album="blackwater-rafting")
+{{<gallery album="blackwater-rafting">}}
 
 Going through rapids, leaping from waterfalls and descending down rock faces we're led to safety by our fellow mortal instructor Zeus. A quick check to see if we have everybody we get back for some rather awkward wet suit removal, a shower and a hot soup and bagels.
 
@@ -70,7 +70,7 @@ For context the Waitangi Treaty is the agreement that the western colonisers and
 
 I quickly walk through the museum, most notably viewing the differences between how westerners and the Maori viewed land ownership conceptually. Westerners generally considering land as owned by individuals and traded between from the individuals, whilst the Maori view land as being owned by the local leader of the tribe and passed out to individuals for use but ultimately the land is always owned by the leader, much like leased land. You can imagine how this would make any agreement difficult.
 
-[//]: # (gallery album="waitangi-treaty-grounds")
+{{<gallery album="waitangi-treaty-grounds">}}
 
 I have an great tour guide around the grounds, very knowledgeable about the Maori as a descendent of one the original signers of the agreement and a good sense of humour, often referencing how the Colonel and the golden arches came to bring a delicious meat based diet to the Maori. We see the ceremonial waka, made from 3 huge Kauri trees and over two years of craftsmanship, and then follow up to the peak of the grounds with the flag pole with the New Zealand flag, the original sailing icon and, perhaps controversially, the Great British flag. When asked about it the guide was very tactful and said that "what's in the past is in the past and we should concentrate on the problems we have today and move forward".
 
@@ -78,7 +78,7 @@ At this point, I'd like to say that I don't really think I'm entitled to an opin
 
 I get back to the coach and I repeat this to Rachel and she said that most Maori probably think similarly but others are still overly bitter about what has happened in the past. Each year there is a celebration of the treaty at the grounds and according to Rachel it's only about 20% non-Maori when it is supposed to be celebrating the bringing together of these peoples. From hearing Rachel's opinions I get to see that the racial divides are not simple shouldn't be treated with simple solutions. The one thing we agreed on though is that poverty was the root cause of a lot of this and any policies should made to help people regardless of race.
 
-[//]: # (gallery album="bay-of-islands")
+{{<gallery album="bay-of-islands">}}
 
 We arrive back in Paihia and I get onto the boat that will cruise around this pristine blue bay. I get a good seat on the top floor and enjoy the ride. Scenic views a plenty, this tour went through the bay of islands and up to but not through the "hole in the rock". Dolphins sighting were supposed to be common on this tour but it was not to be and even more disappointingly the lunch I had booked wasn't on ship. Luckily I had planned for this and chowed down on a big bag of crisps but overall it put a dampener on the tour. At least it didn't cost that much.
 
