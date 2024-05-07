@@ -36,7 +36,7 @@ subtitle = ""
   icon = "terraform"
   icon_pack = "icomoon"
   name = "Terraform"
-  description = "40%"
+  description = "50%"
   
 [[feature]]
   icon = "gitlab"
@@ -57,9 +57,9 @@ subtitle = ""
   description = "75%"
   
 [[feature]]
-  icon = "elastic"
+  icon = "kubernetes"
   icon_pack = "icomoon"
-  name = "ElasticSearch"
+  name = "Kubernetes"
   description = "30%"
   
 [[feature]]
