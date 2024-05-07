@@ -21,11 +21,11 @@ organizations:
 bio: A platform engineer who is interested in all things DevOps
 
 interests:
-- Automation
-- Cloud
-- Cycling
-- Music
-- Climbing
+  - Automation
+  - Cloud
+  - Cycling
+  - Music
+  - Climbing
 
 education:
   courses:

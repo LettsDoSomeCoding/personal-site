@@ -80,11 +80,6 @@ features:
     shape: circle
   comment:
     provider: giscus
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
     giscus:
       repo: 'https://github.com/LettsDoSomeCoding/personal-site-giscus'
       repo_id: 'personal-site-giscus'
