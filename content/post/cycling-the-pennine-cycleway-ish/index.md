@@ -56,7 +56,7 @@ Leaving Derby station we make our way out of Derby and onto the Pennine cycleway
 
 Our first proper stop along the way and we come across a lovely station turned cafe. The upstairs still had some of the original fittings including [points levers](https://english.stackexchange.com/questions/483557/machinery-used-to-change-train-tracks), a furnace and a railway map. Safe to say we made sure not to incur the forty shillings fine as well 🙈
 
-{{< gallery album="hartington_station" >}}
+{{<gallery album="hartington_station">}}
 
 ### A slip in the plan
 
@@ -66,7 +66,7 @@ So far I had been travelling on relatively flat paths but the hills started to b
 
 The hills weren't working out but we had to keep going, we had a hotel booked and we had enough flat track that my middle gears were sufficient. Morale was getting low but fortunately the stunning views of this spectacular route kept on coming.
 
-{{< gallery album="morale_boost" >}}
+{{<gallery album="morale_boost">}}
 
 ### Darkness descends
 
@@ -90,7 +90,7 @@ We arrive at [Albion Cycling](https://goo.gl/maps/uYYBpo8bLf6rgzmk7) and the sta
 
 Albion Cycling fix up my bike lickety split in the morning and we head off with hills in mind and scenery in view. It starts as it means to go on, steep and breathtaking a great test for my new chainset and we were happy to find that they were working exactly as intended. 
 
-{{< gallery album="fixed_bike" >}}
+{{<gallery album="fixed_bike">}}
 
 ### The hills are alive with... Kettering Town FC???
 
