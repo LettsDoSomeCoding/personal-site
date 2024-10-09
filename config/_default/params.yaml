@@ -93,7 +93,7 @@ features:
   map:
     provider: 'google'
     api_key: 'AIzaSyD21Pja9OIRy7TkstrZThDDiTEhqcSZ1VQ'
-    zoom: 15
+    zoom: 30
 
 # Extensions
 
