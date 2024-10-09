@@ -25,9 +25,11 @@
 			"ms-python.vscode-pylance",
 			"ms-python.python",
 			"ms-python.debugpy",
+			"ms-python.black-formatter",
 			"dbaeumer.vscode-eslint",
 			"ms-azuretools.vscode-docker",
-			"redhat.vscode-yaml"
+			"redhat.vscode-yaml",
+			"tomoki1207.pdf"
 		]
 		}
 	  }
