@@ -35,7 +35,7 @@ The overall architecture consists of:
 
 Below is a diagram showing the workflow of developer writing the website, committing and pushing the code, that triggering both a mirror and CI pipeline, and then the final website being published.
 
-![Development Experience Workflow](dev-workflow.png)
+![Development Experience Workflow](images/dev-workflow.png)
 
 ## Description and Reasoning for Choice of Components
 
