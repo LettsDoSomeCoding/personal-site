@@ -63,4 +63,4 @@ email: "owen.letts@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
 
-Owen Letts is a DevOps Engineer alumni of Microsoft. His career interests include automation, infrastructure as code, containerisation, orchestration and reducing technical debt. During his free time he likes to go to gigs, travelling, cycling, rock climbing and tasting the many varieties of beer the world has to offer. He has recently come back from a career break to travel the world and is eager to help bridge the gap between Dev and Ops in another country.
+Owen Letts is a DevOps Engineer alumni of Microsoft. His career interests include automation, infrastructure as code, containerisation, orchestration and reducing technical debt. During his free time he likes to go to gigs, travelling, cycling, rock climbing and tasting the many varieties of beer the world has to offer. He has recently come back from a career break to travel the world and is eager to help bridge the gap between Dev and Ops, in his favourite city of London.

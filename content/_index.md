@@ -28,6 +28,14 @@ sections:
           icon: "python"
           icon_pack: "icomoon"
           description: "60%"
+        - name: "GitLab CI and Admin"
+          icon: "gitlab"
+          icon_pack: "icomoon"
+          description: "90%"
+        - name: "Terraform"
+          icon: "terraform"
+          icon_pack: "icomoon"
+          description: "50%"
         - name: "C#"
           icon: "csharp"
           icon_pack: "icomoon"
@@ -36,22 +44,14 @@ sections:
           icon: "linux"
           icon_pack: "icomoon"
           description: "60%"  
-        - name: "Terraform"
-          icon: "terraform"
+        - name: "Grafana and Prometheus"
+          icon: "prometheus"
           icon_pack: "icomoon"
-          description: "50%"
-        - name: "GitLab CI and Admin"
-          icon: "gitlab"
-          icon_pack: "icomoon"
-          description: "90%" 
+          description: "75%"
         - name: "Git"
           icon: "git"
           icon_pack: "icomoon"
           description: "70%"
-        - name: "Grafana and Prometheus Monitoring and Alerting"
-          icon: "prometheus"
-          icon_pack: "icomoon"
-          description: "75%"
         - name: "Kubernetes"
           icon: "kubernetes"
           icon_pack: "icomoon"
@@ -136,8 +136,8 @@ sections:
           id: 'https://formspree.io/f/owen.letts@gmail.com'
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
-        latitude: '50.9103'
-        longitude: '-1.4048'
+        latitude: '51.5076'
+        longitude: '-0.1277'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
