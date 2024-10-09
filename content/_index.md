@@ -99,7 +99,7 @@ sections:
       subtitle: ''
       text: ''
     #   Contact details - edit or remove options as needed
-    #   email: owen.letts@gmail.com
+      email: owen.letts@gmail.com
     #   phone: 888 888 88 88
     #   appointment_url: 'https://calendly.com'
     #   address:
@@ -113,7 +113,15 @@ sections:
     #   office_hours:
     #     - 'Monday 10:00 to 13:00'
     #     - 'Wednesday 09:00 to 10:00'
-    #   contact_links:
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: https://www.linkedin.com/in/owen-letts-376563144
+        - icon: cv
+          icon_pack: ai
+          name: Download my CV
+          link: files/CV.pdf
         # - icon: twitter
         #   icon_pack: fab
         #   name: DM Me
@@ -129,11 +137,11 @@ sections:
       # Automatically link email and phone or display them just as text?
       autolink: true
       # Choose an email form provider (netlify/formspree)
-      form:
-        provider: formspree
-        formspree:
-          # If using Formspree, enter your Formspree form ID
-          id: 'https://formspree.io/f/owen.letts@gmail.com'
+      # form:
+      #   provider: formspree
+      #   formspree:
+      #     # If using Formspree, enter your Formspree form ID
+      #     id: 'https://formspree.io/f/owen.letts@gmail.com'
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
         latitude: '51.5076'
