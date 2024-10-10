@@ -4,10 +4,16 @@ variables:
   NODE_VERSION: 20.x
   GIT_SUBMODULE_STRATEGY: recursive
 
-image:
-  name: golang:1.22.1-bookworm
+linting:
+  image: pyfound/black:latest_release
+  stage: linting
+  script:
+    # This runs linting on all python files in the project to make sure they comply with Black formatting rules
+    - black .
 
 pages:
+  image: 'golang:1.22.1-bookworm'
+  stage: deployment
   script:
     # Install brotli
     - apt-get update
@@ -35,6 +41,7 @@ pages:
   artifacts:
     paths:
       - public
+  # Only run the deployment step on the main (default) branch
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
