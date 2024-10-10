@@ -4,6 +4,10 @@ variables:
   NODE_VERSION: 20.x
   GIT_SUBMODULE_STRATEGY: recursive
 
+stages:
+  - linting
+  - deploy
+
 linting:
   image: pyfound/black:latest_release
   stage: linting
@@ -13,7 +17,7 @@ linting:
 
 pages:
   image: 'golang:1.22.1-bookworm'
-  stage: deployment
+  stage: deploy
   script:
     # Install brotli
     - apt-get update
