@@ -9,7 +9,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "ALL THE ICONS"
+  caption: "Getting going again"
   focal_point: "Centre"
   placement: 3
   preview_only: false
