@@ -22,7 +22,7 @@ image:
 projects: ["personal-site"]
 ---
 
-I've not given enough love to this website in the last few years. So I'm coming back with more energy than ever and looking to enhance and add more content continuously going forward. This post will talk about what this content will consist of and the direction that the site will be driving towards in the future.
+I've not given enough love to this website in the last few years. So I'm coming back with more energy than ever and looking to enhance the site and add more content continuously going forward. This post will talk about what this content will consist of and the direction that the site will be driving towards in the future.
 
 ## No Longer a Travel Blog
 
