@@ -21,7 +21,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["personal-site"]
 ---
 
 Veering away from the type of content that I've been writing so far I thought I would cover a technical tutorial on how to use custom icons in the skills section of the Academic theme in Hugo. But, don't worry I will finally get back to the promised New Zealand content in one way or another soon!
