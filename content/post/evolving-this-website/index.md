@@ -3,7 +3,7 @@ title: "Evolving this Website"
 subtitle: "Change is inevitable and should be embraced!"
 tags: ["website", "Technical", "Hugo", "Academic"]
 date: 2024-10-12
-draft: True
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,7 +34,7 @@ The code for this site is now cloned on both GitLab (the main site for contribut
 
 Getting from pulling down the code to being able to build and test the code was a bit of a pain, especially when moving from one PC to another. To help with this issue I've added the devcontainer. This works with the VSCode Remote Development Extension pack natively and VSCode will ask on startup whether you want to develop in the container. This means that all the requirements for doing all the relevant development tasks related to this project will be available from the get go, and it will also add consistency of environment so that you don't get the classic addage "It works on my machine". To make it as usable as possible for developers regardless of IDE, I have made sure to add as many of the project requirements into the DOCKERFILE so that others can take that and use it with their preferrable configuration.
 
-![Happy whales make for happy developers](docker.png)
+{{<figure src="docker.png" caption="Happy whales make for happy developers">}}
 
 ## Updating to a Newer Version of Hugo and Academic
 
@@ -48,7 +48,7 @@ One thing that was missing from my previous version of the site was an easy way 
 
 As mentioned already, this site used to be deployed using Netlify. Whilst this was very easy and I would recommend Netlify for most static site deployments, especially for people who are less comfortable with writing scripts. However, I wanted to show that I can write a CI/CD script and I wanted to make sure that I could block the deployment with tests. I still wanted the deployment to be cost-free as this is a personal project though. So I went with GitLab Pages. A free hosting option provided by GitLab, that also comes with niceties like CloudFlare protection. If you want to see the deployment code, then feel free to take look at the [.gitlab-ci.yml file](https://gitlab.com/LettsDoSomeCoding/personal-site/-/blob/main/.gitlab-ci.yml). I'd also be happy to recieve any feedback.
 
-![How I look when I get feedback on my work](happy-owen.jpeg)
+{{<figure src="happy-owen.jpeg" caption="How I look when I get feedback on my projects">}}
 
 That being said I do plan on changing my deployment method quite often so that I can learn and experiement with other technologies, so don't get too attached.
 
