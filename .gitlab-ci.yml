@@ -23,7 +23,6 @@ pages:
     - apt-get update
     # Add in the Google Maps API Key to the params.yaml file via the GitLab CI/CD variable value for security
     - apt-get install -y yq
-    - export GOOGLE_MAPS_API_KEY=$GOOGLE_MAPS_API_KEY
     - yq -yi '.features.map.api = env.GOOGLE_MAPS_API_KEY' config/_default/params.yaml
     # Install brotli
     - apt-get install -y brotli
