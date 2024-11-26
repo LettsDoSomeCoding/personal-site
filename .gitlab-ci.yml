@@ -19,8 +19,12 @@ pages:
   image: 'golang:1.22.1-bookworm'
   stage: deploy
   script:
-    # Install brotli
+    # Update apt repositories metadata
     - apt-get update
+    # Add in the Google Maps API Key to the params.yaml file via the GitLab CI/CD variable value for security
+    - apt-get install -y yq
+    - yq -yi '.features.map.api = env.GOOGLE_MAPS_API_KEY' config/_default/params.yaml
+    # Install brotli
     - apt-get install -y brotli
     # Install Dart Sass
     - curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
