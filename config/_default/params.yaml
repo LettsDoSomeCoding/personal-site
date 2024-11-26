@@ -92,7 +92,7 @@ features:
     provider: wowchemy
   map:
     provider: 'google'
-    api_key: 'AIzaSyD21Pja9OIRy7TkstrZThDDiTEhqcSZ1VQ'
+    api_key: 'GOOGLE_MAPS_API_KEY'
     zoom: 12
 
 # Extensions
