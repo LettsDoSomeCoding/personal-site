@@ -15,11 +15,6 @@ linting:
     # This runs linting on all python files in the project to make sure they comply with Black formatting rules
     - black .
 
-testing_variables:
-  stage: deploy
-  script:
-    - export
-
 pages:
   image: 'golang:1.22.1-bookworm'
   stage: deploy
@@ -28,7 +23,7 @@ pages:
     - apt-get update
     # Add in the Google Maps API Key to the params.yaml file via the GitLab CI/CD variable value for security
     - apt-get install -y yq
-    - yq --arg jq_api_key $GOOGLE_MAPS_API_KEY -yi '.features.map.api = $jq_api_key' config/_default/params.yaml
+    - yq --arg jq_api_key $GOOGLE_MAPS_API_KEY -yi '.features.map.api = $jq_api_key' ./config/_default/params.yaml
     # Install brotli
     - apt-get install -y brotli
     # Install Dart Sass
