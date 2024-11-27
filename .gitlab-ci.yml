@@ -15,6 +15,11 @@ linting:
     # This runs linting on all python files in the project to make sure they comply with Black formatting rules
     - black .
 
+testing_variables:
+  stage: deploy
+  script:
+    - export
+
 pages:
   image: 'golang:1.22.1-bookworm'
   stage: deploy
