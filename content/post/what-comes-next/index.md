@@ -3,7 +3,7 @@ title: "New Project. The Instagram Story Cutter!"
 subtitle: "There is probably a tool for this already..."
 tags: ["project", "Technical", "Python", "Vlog", "Programming"]
 date: 2024-10-12
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
